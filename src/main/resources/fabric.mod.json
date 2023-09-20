@@ -13,7 +13,7 @@
   },
 
   "license": "All-Rights-Reserved",
-  "icon": "assets/obsidianbucket/icon.png",
+  "icon": "assets/wynnu/obsidian_bucket.png",
 
   "environment": "*",
   "entrypoints": {
