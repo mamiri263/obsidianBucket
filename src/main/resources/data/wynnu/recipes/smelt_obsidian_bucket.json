@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "wynnu:obsidian_bucket"
+  },
+  "result": "wynnu:molten_obsidian",
+  "experience": 0.15,
+  "cookingtime": 200
+}

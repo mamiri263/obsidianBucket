@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "obsidianbucket",
+  "version": "1.0",
+
+  "name": "obsidianBucket",
+  "description": "Wynnu's useless obsidian bucket!",
+  "authors": [
+    "wynnu"
+  ],
+  "contact": {
+    "repo": "https://github.com/mamiri263/obsidianBucket"
+  },
+
+  "license": "All-Rights-Reserved",
+  "icon": "assets/obsidianbucket/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.mamiri263.obsidianbucket.client.ObsidianBucketClient"
+    ],
+    "main": [
+      "com.mamiri263.obsidianbucket.ObsidianBucket"
+    ]
+  },
+
+
+  "depends": {
+    "fabricloader": "0.14.22",
+        "fabric": "*",
+    "minecraft": "1.20.1"
+  }
+}
